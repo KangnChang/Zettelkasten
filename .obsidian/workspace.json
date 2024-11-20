@@ -4,54 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "77037213b21bde77",
+        "id": "526cc18126658c8c",
         "type": "tabs",
         "children": [
           {
-            "id": "904b2054d209bd14",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (workspace.json)"
-            }
-          },
-          {
-            "id": "46d3d36ab4d357c5",
+            "id": "a4c2e27b558c0ad9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/무제 파일.md",
+                "file": "6 - Main Notes/프로이트의 삶과 작품.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "무제 파일"
-            }
-          },
-          {
-            "id": "bc9823bd5018159f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Indexes/무제 파일.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "무제 파일"
+              "title": "프로이트의 삶과 작품"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Park",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,10 +138,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 - Indexes/무제 파일.md"
+                "file": "6 - Main Notes/프로이트의 삶과 작품.md"
               },
               "icon": "lucide-list",
-              "title": "무제 파일 개요"
+              "title": "프로이트의 삶과 작품 개요"
             }
           },
           {
@@ -201,24 +172,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "626fb88da5201b94",
+  "active": "a4c2e27b558c0ad9",
   "lastOpenFiles": [
+    "6 - Main Notes/포스트모더니즘의 아버지 니체, 마르크스,  프로이트.md",
+    "6 - Main Notes/프로이트의 삶과 작품.md",
+    "2 - Source Materials/Videos/히스테리에 대한 연구.md",
+    "3 - Tags/Freud.md",
+    "3 - Tags/Psychoanalysis.md",
+    "2 - Source Materials/Videos/포스트모더니즘 1.md",
+    "2 - Source Materials/Videos/포스트모더니즘 2.md",
+    "5 - Templates/Source.md",
     "1 - Rough Notes/무제 파일.md",
+    "2 - Source Materials/Videos/프로이트의 삶과 작품.md",
+    "2 - Source Materials/Lectures/철학 I 마르크스.md",
     "4 - Indexes/무제 파일.md",
     "6 - Main Notes/Sample note.md",
-    "3 - Tags/Freud.md",
-    "4 - Indexes/무제 파일.md",
     "3 - Tags/Nietzsche.md",
     "3 - Tags/Postmodernism.md",
     "3 - Tags/Marx.md",
-    "2 - Source Materials/Videos/포스트모더니즘 2.md",
-    "2 - Source Materials/Videos/포스트모더니즘 1.md",
     "5 - Templates/Main Note.md",
-    "6 - Main Notes/포스트모더니즘의 아버지 니체, 마르크스,  프로이트.md",
-    "2 - Source Materials/Lectures/철학 I 마르크스.md",
     "2 - Source Materials/Lectures",
     "Guide.md",
-    "5 - Templates/Source.md",
     "2 - Source Materials/Books",
     "BOok",
     "2 - Source Materials/Videos",
