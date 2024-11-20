@@ -11,14 +11,13 @@
             "id": "b76a28ec0fcd1d3c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
                 "file": "2 - Source Materials/Videos/포스트모더니즘 2.md",
-                "mode": "source",
-                "source": false
+                "staged": true
               },
-              "icon": "lucide-file",
-              "title": "포스트모더니즘 2"
+              "icon": "git-pull-request",
+              "title": "Diff View (포스트모더니즘 2)"
             }
           },
           {
@@ -186,11 +185,11 @@
   },
   "active": "b76a28ec0fcd1d3c",
   "lastOpenFiles": [
+    "2 - Source Materials/Videos/포스트모더니즘 2.md",
     "2 - Source Materials/Videos/포스트모더니즘 1.md",
     "5 - Templates/Main Note.md",
     "6 - Main Notes/포스트모더니즘의 아버지 니체, 마르크스,  프로이트.md",
     "3 - Tags/Marx.md",
-    "2 - Source Materials/Videos/포스트모더니즘 2.md",
     "2 - Source Materials/Lectures/철학 I 마르크스.md",
     "6 - Main Notes/무제 파일.md",
     "2 - Source Materials/Lectures",
