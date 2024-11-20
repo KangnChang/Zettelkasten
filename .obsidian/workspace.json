@@ -8,37 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ebb322ad4a737aba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Source Materials/Videos/포스트모더니즘 2.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "포스트모더니즘 2"
-            }
-          },
-          {
             "id": "015d4d67b8593483",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/소크라테스의 변명.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "소크라테스의 변명"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,11 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "6 - Main Notes/소크라테스의 변명.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "소크라테스의 변명 개요"
+              "title": "개요"
             }
           }
         ],
@@ -190,13 +167,15 @@
   },
   "active": "015d4d67b8593483",
   "lastOpenFiles": [
+    "가이드라인?.md",
+    "도서 추천.md",
+    "바로가기.md",
+    "자주 쓰는 기호들.md",
+    "사용 팁.md",
     "2 - Source Materials/Videos/포스트모더니즘 2.md",
     "6 - Main Notes/소크라테스의 변명.md",
     "2 - Source Materials/Videos/포스트모더니즘 1.md",
     "6 - Main Notes/데카르트와 속이는 악마.md",
-    "도서 추천.md",
-    "바로가기.md",
-    "가이드라인?.md",
     "6 - Main Notes/프로이트의 삶과 작품.md",
     "6 - Main Notes/히스테리 연구.md",
     "6 - Main Notes/흄의 의심.md",
@@ -204,8 +183,6 @@
     "6 - Main Notes/로고스란 무엇인가?.md",
     "6 - Main Notes/데카르트의 성찰.md",
     "6 - Main Notes/데카르트와 종교재판.md",
-    "자주 쓰는 기호들.md",
-    "사용 팁.md",
     "6 - Main Notes/ㅓㅓㅓㅓ.md",
     "6 - Main Notes/포스트모더니즘의 아버지 니체, 마르크스,  프로이트.md",
     "3 - Tags/Hysteria.md",
