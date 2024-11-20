@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "42dd64e79fdb919f",
+        "id": "4035e9c75a34aa8a",
         "type": "tabs",
         "children": [
           {
-            "id": "be8439ff67cbce5d",
+            "id": "ebb322ad4a737aba",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,65 +20,9 @@
               },
               "icon": "lucide-file",
               "title": "가이드라인?"
-            }
-          },
-          {
-            "id": "30173a6130749a07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "사용 팁.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "사용 팁"
-            }
-          },
-          {
-            "id": "137c1327f43a27e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "가이드라인?.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "가이드라인?"
-            }
-          },
-          {
-            "id": "b5d3c13d5db19bc6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "가이드라인?.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "가이드라인?"
-            }
-          },
-          {
-            "id": "284c5901f7ec8200",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,19 +133,7 @@
             }
           },
           {
-            "id": "a154b7a253235b90",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "2 - Source Materials/Videos/히스테리에 대한 연구.md"
-              },
-              "icon": "lucide-list",
-              "title": "히스테리에 대한 연구 개요"
-            }
-          },
-          {
-            "id": "1f58ba6433f17310",
+            "id": "829c340302ede5f9",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -209,9 +141,21 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "80b586265cd7e1dc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "가이드라인?.md"
+              },
+              "icon": "lucide-list",
+              "title": "가이드라인? 개요"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -228,11 +172,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "284c5901f7ec8200",
+  "active": "ebb322ad4a737aba",
   "lastOpenFiles": [
-    "도서 추천.md",
-    "가이드라인?.md",
     "바로가기.md",
+    "가이드라인?.md",
+    "도서 추천.md",
     "자주 쓰는 기호들.md",
     "사용 팁.md",
     "6 - Main Notes/데카르트와 종교재판.md",
