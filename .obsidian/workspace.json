@@ -4,25 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "526cc18126658c8c",
+        "id": "42dd64e79fdb919f",
         "type": "tabs",
         "children": [
           {
-            "id": "a4c2e27b558c0ad9",
+            "id": "be8439ff67cbce5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Materials/Videos/히스테리에 대한 연구.md",
+                "file": "6 - Main Notes/로고스란 무엇인가?.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "히스테리에 대한 연구"
+              "title": "로고스란 무엇인가?"
+            }
+          },
+          {
+            "id": "9d724cfbc0cd33bd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Park",
+                "query": "tag:#Done",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -172,40 +183,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a4c2e27b558c0ad9",
+  "active": "9d724cfbc0cd33bd",
   "lastOpenFiles": [
-    "6 - Main Notes/프로이트의 삶과 작품.md",
+    "6 - Main Notes/로고스란 무엇인가?.md",
+    "6 - Main Notes/데카르트와 속이는 악마.md",
+    "Guideline?.md",
+    "3 - Tags/Aristotle.md",
+    "3 - Tags/Plato.md",
+    "3 - Tags/Parmenides.md",
+    "3 - Tags/Heraclitus.md",
+    "6 - Main Notes/데카르트의 성찰.md",
+    "6 - Main Notes/데카르트와 종교재판.md",
+    "6 - Main Notes/로크 버클리 흄의 인식론 비교.md",
     "6 - Main Notes/포스트모더니즘의 아버지 니체, 마르크스,  프로이트.md",
-    "2 - Source Materials/Videos/히스테리에 대한 연구.md",
-    "3 - Tags/Freud.md",
-    "3 - Tags/Psychoanalysis.md",
-    "2 - Source Materials/Videos/포스트모더니즘 1.md",
+    "6 - Main Notes/프로이트의 삶과 작품.md",
+    "6 - Main Notes/흄의 의심.md",
+    "2 - Source Materials/Videos/히스테리 연구.md",
+    "3 - Tags/Logos.md",
     "2 - Source Materials/Videos/포스트모더니즘 2.md",
+    "2 - Source Materials/Videos/포스트모더니즘 1.md",
+    "3 - Tags/Skepticism.md",
+    "3 - Tags/Hume.md",
+    "3 - Tags/Locke.md",
+    "3 - Tags/Berkeley.md",
+    "3 - Tags/Empiricism.md",
+    "3 - Tags/Christianity.md",
+    "3 - Tags/Descartes.md",
+    "2 - Source Materials/Books/히스테리에 대한 연구.md",
     "5 - Templates/Source.md",
-    "1 - Rough Notes/무제 파일.md",
-    "2 - Source Materials/Videos/프로이트의 삶과 작품.md",
-    "2 - Source Materials/Lectures/철학 I 마르크스.md",
-    "4 - Indexes/무제 파일.md",
-    "6 - Main Notes/Sample note.md",
-    "3 - Tags/Nietzsche.md",
-    "3 - Tags/Postmodernism.md",
-    "3 - Tags/Marx.md",
-    "5 - Templates/Main Note.md",
     "2 - Source Materials/Lectures",
-    "Guide.md",
     "2 - Source Materials/Books",
     "BOok",
     "2 - Source Materials/Videos",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
-    "6 - Main Notes/무제 파일 1.md",
-    "무제 파일 1.md",
     "6 - Main Notes",
     "5 - Templates",
     "4 - Indexes",
     "3 - Tags",
     "2 - Source Materials",
-    "1 - Rough Notes",
-    "fff.md"
+    "1 - Rough Notes"
   ]
 }

@@ -1,4 +1,4 @@
-Author: #Park 
+Author: 
 
 # Reference 
 
