@@ -4,20 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "56f2f199f223dd46",
+        "id": "daab690722a7c0ba",
         "type": "tabs",
         "children": [
           {
-            "id": "8dd194b56fad8be3",
+            "id": "ea376dea162140ac",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "6 - Main Notes/도덕의 계보학.md",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (도덕의 계보학)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
             }
           }
         ]
@@ -76,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b9704262c6d43793",
@@ -169,30 +165,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8dd194b56fad8be3",
+  "active": "ea376dea162140ac",
   "lastOpenFiles": [
-    "6 - Main Notes/도덕의 계보학.md",
     "6 - Main Notes/데카르트와 속이는 악마.md",
+    "6 - Main Notes/데카르트와 종교재판.md",
+    "가이드라인?.md",
+    "6 - Main Notes/데카르트의 성찰.md",
+    "2 - Source Materials/Videos/포스트모더니즘 2.md",
+    "2 - Source Materials/Videos/포스트모더니즘 1.md",
+    "6 - Main Notes/포스트모더니즘의 아버지 니체, 마르크스,  프로이트.md",
+    "6 - Main Notes/로크, 버클리, 흄의 인식론 비교.md",
+    "6 - Main Notes/로고스란 무엇인가?.md",
+    "6 - Main Notes/도덕의 계보학.md",
+    "2 - Source Materials/Books/소크라테스의 변명.md",
+    "2 - Source Materials/Books/도덕의 계보 역자 해제(박찬국).md",
     "6 - Main Notes/프로이트의 삶과 작품.md",
     "6 - Main Notes/흄의 의심.md",
     "6 - Main Notes/히스테리 연구.md",
-    "2 - Source Materials/Books/도덕의 계보 역자 해제(박찬국).md",
     "3 - Tags/Morality.md",
     "6 - Main Notes/무제 파일.md",
-    "6 - Main Notes/로크, 버클리, 흄의 인식론 비교.md",
-    "6 - Main Notes/로고스란 무엇인가?.md",
-    "6 - Main Notes/데카르트와 종교재판.md",
-    "6 - Main Notes/데카르트의 성찰.md",
-    "가이드라인?.md",
     "자주 쓰는 기호들.md",
     "도서 추천.md",
     "바로가기.md",
     "사용 팁.md",
-    "2 - Source Materials/Videos/포스트모더니즘 2.md",
-    "6 - Main Notes/소크라테스의 변명.md",
-    "2 - Source Materials/Videos/포스트모더니즘 1.md",
     "6 - Main Notes/ㅓㅓㅓㅓ.md",
-    "6 - Main Notes/포스트모더니즘의 아버지 니체, 마르크스,  프로이트.md",
     "3 - Tags/Hysteria.md",
     "2 - Source Materials/Videos/히스테리 연구.md",
     "2 - Source Materials/Lectures/철학 I 마르크스.md",
