@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "77d174bcdcdcc63f",
+        "id": "906cedcb5010524c",
         "type": "tabs",
         "children": [
           {
-            "id": "2a5b73c8a14ced12",
+            "id": "8dea9d0fb4aaa56a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Source Materials/Videos/포스트모더니즘 2.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "포스트모더니즘 2"
+              "title": "새 탭"
             }
           }
         ]
@@ -53,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "안티",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +69,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -171,26 +165,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "979541f76129b6c1",
+  "active": "626fb88da5201b94",
   "lastOpenFiles": [
-    "2 - Source Materials/Videos/포스트모더니즘 1.md",
     "2 - Source Materials/Videos/포스트모더니즘 2.md",
-    "2 - Source Materials/Lectures/철학 I 마르크스.md",
-    "2 - Source Materials/Books/소크라테스의 변명.md",
+    "2 - Source Materials/Videos/포스트모더니즘 3.md",
     "2 - Source Materials/Books/도덕의 계보 역자 해제(박찬국).md",
+    "6 - Main Notes/히스테리 연구.md",
+    "6 - Main Notes/로고스란 무엇인가?.md",
     "6 - Main Notes/데카르트와 속이는 악마.md",
     "6 - Main Notes/데카르트와 종교재판.md",
+    "2 - Source Materials/Videos/포스트모더니즘 1.md",
+    "2 - Source Materials/Lectures/철학 I 마르크스.md",
+    "2 - Source Materials/Books/소크라테스의 변명.md",
     "가이드라인?.md",
     "6 - Main Notes/데카르트의 성찰.md",
     "6 - Main Notes/포스트모더니즘의 아버지 니체, 마르크스,  프로이트.md",
     "6 - Main Notes/로크, 버클리, 흄의 인식론 비교.md",
-    "6 - Main Notes/로고스란 무엇인가?.md",
     "6 - Main Notes/도덕의 계보학.md",
     "6 - Main Notes/프로이트의 삶과 작품.md",
     "6 - Main Notes/흄의 의심.md",
-    "6 - Main Notes/히스테리 연구.md",
     "3 - Tags/Morality.md",
-    "6 - Main Notes/무제 파일.md",
     "자주 쓰는 기호들.md",
     "도서 추천.md",
     "바로가기.md",
