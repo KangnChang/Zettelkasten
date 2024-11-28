@@ -8,21 +8,37 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f66a133b4b0997a0",
+            "id": "d8734772cdfa9a4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/데카르트 방법서설.md",
+                "file": "가이드라인?.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "데카르트 방법서설"
+              "title": "가이드라인?"
+            }
+          },
+          {
+            "id": "ccb7a6cffe43209c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/히스테리 연구.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "히스테리 연구"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,12 +186,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f66a133b4b0997a0",
+  "active": "ccb7a6cffe43209c",
   "lastOpenFiles": [
-    "6 - Main Notes/포스트모더니즘의 아버지 니체, 마르크스,  프로이트.md",
-    "2 - Source Materials/Videos/포스트모더니즘 1.md",
+    "사용 팁.md",
+    "자주 쓰는 기호들.md",
+    "바로가기.md",
+    "도서 추천.md",
+    "가이드라인?.md",
+    "6 - Main Notes/스스로를 규정하지 말자.md",
+    "6 - Main Notes/Better Life.md",
+    "6 - Main Notes/젠더 이슈에 대한 개인적 생각.md",
+    "6 - Main Notes/영국 경험론.md",
+    "6 - Main Notes/왜 휴학을 했는가?.md",
+    "3 - Tags/KMLA.md",
     "6 - Main Notes/데카르트 방법서설.md",
     "3 - Tags/Descartes.md",
+    "6 - Main Notes/포스트모더니즘의 아버지 니체, 마르크스,  프로이트.md",
+    "2 - Source Materials/Videos/포스트모더니즘 1.md",
     "6 - Main Notes/데카르트의 성찰.md",
     "6 - Main Notes/데카르트와 종교재판.md",
     "6 - Main Notes/데카르트와 속이는 악마.md",
@@ -187,17 +214,6 @@
     "2 - Source Materials/Videos/포스트모더니즘 2.md",
     "2 - Source Materials/Videos/포스트모더니즘 3.md",
     "3 - Tags/Nietzsche.md",
-    "자주 쓰는 기호들.md",
-    "6 - Main Notes/히스테리 연구.md",
-    "2 - Source Materials/Books/도덕의 계보 역자 해제(박찬국).md",
-    "2 - Source Materials/Lectures/철학 I 마르크스.md",
-    "2 - Source Materials/Books/소크라테스의 변명.md",
-    "가이드라인?.md",
-    "3 - Tags/Morality.md",
-    "도서 추천.md",
-    "바로가기.md",
-    "사용 팁.md",
-    "6 - Main Notes/ㅓㅓㅓㅓ.md",
     "2 - Source Materials/Lectures",
     "2 - Source Materials/Books",
     "BOok",

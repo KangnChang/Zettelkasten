@@ -13,16 +13,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/데카르트와 속이는 악마.md",
+                "file": "6 - Main Notes/로크, 버클리, 흄의 인식론 비교.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "데카르트와 속이는 악마"
+              "title": "로크, 버클리, 흄의 인식론 비교"
+            }
+          },
+          {
+            "id": "c0efb0a8568fd8b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/영국경험론.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "영국경험론"
+            }
+          },
+          {
+            "id": "db30dde9cf87cd54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/왜 휴학을 했는가?.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "왜 휴학을 했는가?"
+            }
+          },
+          {
+            "id": "2489befccac180ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/영국경험론.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "영국경험론"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -96,7 +142,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "6 - Main Notes/데카르트와 속이는 악마.md",
+            "file": "6 - Main Notes/영국경험론.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -146,9 +192,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1ba3eec338d1eda8",
+  "active": "2489befccac180ea",
   "lastOpenFiles": [
-    "2 - Source Materials/Videos/포스트모더니즘 2.md",
-    "6 - Main Notes/데카르트와 속이는 악마.md"
+    "6 - Main Notes/데카르트와 종교재판.md",
+    "6 - Main Notes/데카르트와 속이는 악마.md",
+    "6 - Main Notes/데카르트의 성찰.md",
+    "6 - Main Notes/젠더 이슈에 대한 개인적 생각.md",
+    "6 - Main Notes/왜 휴학을 했는가?.md",
+    "3 - Tags/KMLA.md",
+    "6 - Main Notes/영국경험론.md",
+    "6 - Main Notes/도덕의 계보학.md",
+    "6 - Main Notes/로크, 버클리, 흄의 인식론 비교.md",
+    "2 - Source Materials/Videos/포스트모더니즘 2.md"
   ]
 }
