@@ -8,33 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fbf80205fcef1e1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/도덕의 계보학.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "도덕의 계보학"
-            }
-          },
-          {
             "id": "c6c5de7d4fc36c49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/관념이란?.md",
+                "file": "6 - Main Notes/히스테리 연구.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "관념이란?"
+              "title": "히스테리 연구"
             }
           }
         ]
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "차이성",
+                "query": "예술",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,34 +170,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fbf80205fcef1e1e",
+  "active": "c6c5de7d4fc36c49",
   "lastOpenFiles": [
+    "6 - Main Notes/영국 경험론.md",
     "6 - Main Notes/왜 휴학을 했는가?.md",
-    "6 - Main Notes/히스테리 연구.md",
-    "가이드라인?.md",
+    "6 - Main Notes/관념이란?.md",
+    "6 - Main Notes/데카르트와 속이는 악마.md",
+    "6 - Main Notes/데카르트 방법서설.md",
+    "2 - Source Materials/Books/도덕의 계보 역자 해제(박찬국).md",
+    "2 - Source Materials/Books/소크라테스의 변명.md",
+    "6 - Main Notes/도덕의 계보학.md",
+    "6 - Main Notes/데카르트의 성찰.md",
+    "6 - Main Notes/로고스란 무엇인가?.md",
+    "6 - Main Notes/로크, 버클리, 흄의 인식론 비교.md",
+    "6 - Main Notes/존재와 시간.md",
     "6 - Main Notes/프로이트의 삶과 작품.md",
     "6 - Main Notes/흄의 의심.md",
-    "6 - Main Notes/도덕의 계보학.md",
-    "6 - Main Notes/젠더 이슈에 대한 개인적 생각.md",
+    "6 - Main Notes/히스테리 연구.md",
     "6 - Main Notes/포스트모더니즘의 아버지 니체, 마르크스,  프로이트.md",
-    "6 - Main Notes/로크, 버클리, 흄의 인식론 비교.md",
+    "6 - Main Notes/데카르트와 종교재판.md",
     "2 - Source Materials/Videos/포스트모더니즘 3.md",
-    "6 - Main Notes/영국 경험론.md",
-    "6 - Main Notes/관념이란?.md",
-    "2 - Source Materials/Books/도덕의 계보 역자 해제(박찬국).md",
-    "6 - Main Notes/로고스란 무엇인가?.md",
+    "2 - Source Materials/Lectures/철학 I 마르크스.md",
+    "3 - Tags/Heidegger.md",
+    "가이드라인?.md",
+    "6 - Main Notes/젠더 이슈에 대한 개인적 생각.md",
     "3 - Tags/Plato.md",
     "3 - Tags/Scholasticism.md",
-    "6 - Main Notes/데카르트 방법서설.md",
-    "6 - Main Notes/데카르트와 속이는 악마.md",
     "6 - Main Notes/스스로를 규정하지 말자.md",
     "3 - Tags/Idea.md",
-    "3 - Tags/Hysteria.md",
-    "6 - Main Notes/데카르트의 성찰.md",
-    "6 - Main Notes/데카르트와 종교재판.md",
-    "1 - Rough Notes/무제 파일.md",
-    "3 - Tags/Better Life.md",
-    "사용 팁.md",
     "2 - Source Materials/Lectures",
     "2 - Source Materials/Books",
     "BOok",
