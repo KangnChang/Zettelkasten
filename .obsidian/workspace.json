@@ -137,13 +137,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "6 - Main Notes/히스테리 연구.md"
+              },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "히스테리 연구 개요"
             }
           },
           {
-            "id": "f4b619547069d89c",
+            "id": "ba8bd5267d41c0f2",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -170,16 +172,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c6c5de7d4fc36c49",
+  "active": "80b586265cd7e1dc",
   "lastOpenFiles": [
+    "6 - Main Notes/히스테리 연구.md",
+    "6 - Main Notes/존재와 시간.md",
     "6 - Main Notes/프로이트의 삶과 작품.md",
     "6 - Main Notes/흄의 의심.md",
     "6 - Main Notes/왜 휴학을 했는가?.md",
     "6 - Main Notes/도덕의 계보학.md",
-    "6 - Main Notes/존재와 시간.md",
     "6 - Main Notes/영국 경험론.md",
     "2 - Source Materials/Books/도덕의 계보 역자 해제(박찬국).md",
-    "6 - Main Notes/히스테리 연구.md",
     "6 - Main Notes/관념이란?.md",
     "6 - Main Notes/데카르트와 속이는 악마.md",
     "6 - Main Notes/데카르트 방법서설.md",
